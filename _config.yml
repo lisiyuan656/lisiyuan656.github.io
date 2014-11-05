@@ -1,4 +1,4 @@
-title:            Nicolas Li's Blog
+title:            Li Siyuan's Blog
 description:      This is my personal blog to record my life and thoughts.
 disqus_shortname: hpstrtheme
 reading_time:     true
@@ -9,9 +9,9 @@ url: //lisiyuan656.github.io
 
 # Owner/author information
 owner:
-  name:           Nicolas Li
+  name:           Li Siyuan
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Hi, I'm Li Siyuan, a student majoring in mathematics. I'm interested in computer science, especially AI and Robotics"
   email:          lisiyuan656@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
