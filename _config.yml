@@ -1,39 +1,39 @@
 title:            Li Siyuan's Blog
-description:      This is my personal blog to record my life and thoughts.
-disqus_shortname: hpstrtheme
+description:      This is my blog to record my life and thoughts.
+disqus_shortname: Siyuan
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# Your site's domain goes here (eg: //lisiyuan656.github.io, http://lisiyuan656.github.io, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: //lisiyuan656.github.io
 
 # Owner/author information
 owner:
-  name:           Li Siyuan
+  name:           Siyuan Li
   avatar:         avatar.jpg
-  bio:            "Hi, I'm Li Siyuan, a student majoring in mathematics. I'm interested in computer science, especially AI and Robotics"
-  email:          lisiyuan656@email.com
+  bio:            "Hi, I'm Siyuan Li, a graduate student majoring in CS at OSU. I'm interested in artificial intelligence, hardware-software interface and web programming."
+  email:          lisiyuan656@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:
+  facebook:
+  github:         lisiyuan656
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +yourid
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
