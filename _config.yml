@@ -10,8 +10,8 @@ url: //lisiyuan656.github.io
 # Owner/author information
 owner:
   name:           Siyuan Li
-  avatar:         avatar.jpg
-  bio:            "Hi, I'm Siyuan Li, a graduate student majoring in CS at OSU. I'm interested in artificial intelligence, hardware-software interface and web programming."
+  avatar:         me.jpg
+  bio:            "Hi, My name is Siyuan, a graduate student majoring in CS at OSU. I'm interested in artificial intelligence, hardware-software interface and web programming."
   email:          lisiyuan656@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
@@ -24,7 +24,7 @@ owner:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:   lisiyuan656
 
 # Background image to be tiled on all pages
 background:
